@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Tech-by-Redstone",
+  "name": "Tech by Redstone",
+  "description": "Redstone base tech mod for minecraft 1.9",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Farore"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
