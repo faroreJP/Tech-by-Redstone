@@ -1,0 +1,37 @@
+itemGroup.tbr.main=Tech by Redstone
+
+tile.tbr.casingStone.name=石の機械筐体
+tile.tbr.casingMetal.name=金属の機械筐体
+tile.tbr.casingObsidian.name=黒曜石の機械筐体
+
+item.tbr.gemQuartz.name=石英
+item.tbr.gemRockCrystal.name=水晶
+item.tbr.gemRuby.name=ルビー
+item.tbr.gemSapphire.name=サファイア
+item.tbr.gemAmethyst.name=アメジスト
+
+item.tbr.crystalUnitQuartz.name=水晶振動子
+item.tbr.crystalUnitEmerald.name=エメラルド振動子
+item.tbr.crystalUnitRuby.name=ルビー振動子
+item.tbr.crystalUnitSapphire.name=サファイア振動子
+item.tbr.crystalUnitAmethyst.name=アメジスト振動子
+item.tbr.crystalUnitNetherQuartz.name=ネザー水晶振動子
+item.tbr.crystalUnitDiamond.name=ダイアモンド振動子
+item.tbr.crystalUnitNetherQuartz.name=エンダーパール振動子
+info.tbr.crystalUnit.0=それは振動子として使用できる
+
+item.tbr.multimeter.name=RS マルチメータ
+info.tbr.multimeter.0=それはパルスを測定する
+
+tile.tbr.cableTin.name=RS 錫ケーブル
+info.tbr.cable.0=それはパルスを伝える
+info.tbr.cable.1=それは異なる色のケーブルとは接続しない
+
+
+tile.tbr.generatorVLF.name=超低周波パルスジェネレータ
+tile.tbr.generatorLF.name=低周波パルスジェネレータ
+tile.tbr.generator.name=パルスジェネレータ
+tile.tbr.generatorHF.name=高周波パルスジェネレータ
+tile.tbr.generatorVHF.name=超高周波パルスジェネレータ
+info.tbr.generator.0=それはパルスを出力する
+info.tbr.generator.1=それは振動子を必要とする

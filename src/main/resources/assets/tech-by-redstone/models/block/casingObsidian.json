@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "particle": "tech-by-redstone:blocks/casingObsidianSide",
+      "up": "tech-by-redstone:blocks/casingObsidianTop",
+      "down": "tech-by-redstone:blocks/casingObsidianBottom",
+      "north": "tech-by-redstone:blocks/casingObsidianSide",
+      "south": "tech-by-redstone:blocks/casingObsidianSide",
+      "west": "tech-by-redstone:blocks/casingObsidianSide",
+      "east": "tech-by-redstone:blocks/casingObsidianSide"
+    }
+}

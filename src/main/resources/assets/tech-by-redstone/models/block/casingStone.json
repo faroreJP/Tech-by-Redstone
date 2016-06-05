@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "tech-by-redstone:blocks/casingStoneSide",
+        "up": "tech-by-redstone:blocks/casingStoneTop",
+        "down": "tech-by-redstone:blocks/casingStoneBottom",
+        "north": "tech-by-redstone:blocks/casingStoneSide",
+        "south": "tech-by-redstone:blocks/casingStoneSide",
+        "west": "tech-by-redstone:blocks/casingStoneSide",
+        "east": "tech-by-redstone:blocks/casingStoneSide"
+    }
+}

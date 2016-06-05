@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true": { "model": "tech-by-redstone:generatorVLF" },
+    "powered=false": { "model": "tech-by-redstone:generatorVLF" }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "color=white": { "model": "tech-by-redstone:cableTin" },
+    "color=orange": { "model": "tech-by-redstone:cableTin" },
+    "color=magenta": { "model": "tech-by-redstone:cableTin" },
+    "color=light_blue": { "model": "tech-by-redstone:cableTin" },
+    "color=yellow": { "model": "tech-by-redstone:cableTin" },
+    "color=lime": { "model": "tech-by-redstone:cableTin" },
+    "color=pink": { "model": "tech-by-redstone:cableTin" },
+    "color=gray": { "model": "tech-by-redstone:cableTin" },
+    "color=silver": { "model": "tech-by-redstone:cableTin" },
+    "color=cyan": { "model": "tech-by-redstone:cableTin" },
+    "color=purple": { "model": "tech-by-redstone:cableTin" },
+    "color=blue": { "model": "tech-by-redstone:cableTin" },
+    "color=brown": { "model": "tech-by-redstone:cableTin" },
+    "color=green": { "model": "tech-by-redstone:cableTin" },
+    "color=red": { "model": "tech-by-redstone:cableTin" },
+    "color=black": { "model": "tech-by-redstone:cableTin" }
+  }
+}
